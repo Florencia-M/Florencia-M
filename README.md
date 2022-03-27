@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Florencia-M
 
-- 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on Front-End projects.
 
 - 💬 Discord: Florencia#8983
